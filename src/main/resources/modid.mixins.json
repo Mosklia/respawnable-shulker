@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "cn.mosklia.respawnableshulker.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
